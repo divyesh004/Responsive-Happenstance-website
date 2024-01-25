@@ -1,0 +1,45 @@
+@media (max-width: 767px) {
+  .img-6 {
+    display: block;
+    margin-top: 20px;
+  }
+  .img-6-f {
+    border-radius: 10px;
+  }
+  .oneof {
+    background-color: lightslategray;
+    height: 50px;
+    margin-bottom: 10px;
+  }
+  .oneof a {
+    color: white;
+  }
+  .logo2 img {
+    margin-bottom: 10px;
+  }
+  .slideer {
+    display: none;
+  }
+  .serchbar {
+    position: relative;
+    top: 0%;
+    left: 0%;
+  }
+}
+@media (max-width: 362px) {
+  .main1 {
+    top: 60px;
+    z-index: 999;
+    background-color: lightcyan;
+    padding: 10px 10px;
+    margin-bottom: 20px;
+  }
+}
+@media (max-width: 371px) {
+  .oneof {
+    background-color: lightslategray;
+    height: 40px;
+    margin-bottom: 10px;
+    font-size: 12px;
+  }
+}
